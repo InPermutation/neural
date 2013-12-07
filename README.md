@@ -5,7 +5,10 @@ http://jacob.jkrall.net/neural
 What's going on here?
 ---------------------
 
-Each box represents a neuron. A neuron has two weights that are multiplied by its two inputs (distance to next obstacle, and current energy), and an activation level that determines when the neuron will jump.
+Each box represents a neuron. 
+A neuron has two weights that are multiplied by its two inputs 
+(distance to next obstacle, and current energy),
+and an activation level that determines when the neuron will jump.
 
 Jumping expends energy.
 
